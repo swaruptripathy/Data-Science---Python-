@@ -1,2 +1,2 @@
-# Data Science - Python-
+# Data Science - Python
 Basic Python practice examples
